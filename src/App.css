@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "TT Norms";
+  src: url("./assets/fonts/TTNorms.woff") format("woff"),
+  url("./assets/fonts/TTNorms.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-variant-ligatures: none;
+}
+body {
+  font-family: "TT Norms", sans-serif;
+}
+.app-wrapper {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+  background-color: #F8F8F8;
+}
+.main-container {
+  width: 100%;
+  padding: 0 15px;
+  overflow-y: auto;
+  padding-bottom: 80px;
+}
+.analytics {
+  padding-top: 30px;
+  width: 100%;
+  display: flex;
+}
+
+.donut-wrapper {
+  margin-top: 40px;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 70px;
+}
