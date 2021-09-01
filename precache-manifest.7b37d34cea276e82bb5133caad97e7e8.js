@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "f06fe753d8a590f15dc9cc74a86c9850",
-    "url": "/melior-app-react/static/media/overTimeFeed.f06fe753.svg"
+    "revision": "f0a4c03fc5564089d73de26f54211569",
+    "url": "/melior-app-react/static/media/overall.f0a4c03f.svg"
   },
   {
     "revision": "3623a253656a078c9c54",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/melior-app-react/static/js/main.1dd552d3.chunk.js"
   },
   {
-    "revision": "f0a4c03fc5564089d73de26f54211569",
-    "url": "/melior-app-react/static/media/overall.f0a4c03f.svg"
+    "revision": "f06fe753d8a590f15dc9cc74a86c9850",
+    "url": "/melior-app-react/static/media/overTimeFeed.f06fe753.svg"
   },
   {
     "revision": "81629f81e233f65aa393a524b0d4ac4a",
