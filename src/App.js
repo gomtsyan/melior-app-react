@@ -14,7 +14,7 @@ import SearchResults from "./pages/SearchResults/SearchResults";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/melior-app-react">
       <div className="app-wrapper">
         <NavBar />
         <Switch>
