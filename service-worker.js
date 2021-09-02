@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/melior-app-react/precache-manifest.f75be1fc1a012e87c6e34cdf848b2c75.js"
+  "/melior-app-react/precache-manifest.c69d2eea94436c60a6eeff7ce46761f9.js"
 );
 
 workbox.clientsClaim();
