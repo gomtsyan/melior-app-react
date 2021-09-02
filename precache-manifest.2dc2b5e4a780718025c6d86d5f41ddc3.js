@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/melior-app-react/static/media/individual-search.bf6e23eb.svg"
   },
   {
-    "revision": "dbaf81855c2e25de4f1b",
+    "revision": "9177b2e4383ce3631d37",
     "url": "/melior-app-react/static/css/main.55858d7b.chunk.css"
   },
   {
@@ -16,8 +16,12 @@ self.__precacheManifest = [
     "url": "/melior-app-react/static/media/TTNorms.33f150c6.woff"
   },
   {
-    "revision": "8c680d48fc9e74913e83",
-    "url": "/melior-app-react/static/js/2.3ad94ad1.chunk.js"
+    "revision": "a2b44bf4193cc61ef12d",
+    "url": "/melior-app-react/static/js/2.b3191f34.chunk.js"
+  },
+  {
+    "revision": "c06cf8dff5ff53748668a0093c5f97d2",
+    "url": "/melior-app-react/static/media/Group 86.c06cf8df.svg"
   },
   {
     "revision": "96022ccced3fd9f5e77ab3f9cbfd68e6",
@@ -28,20 +32,16 @@ self.__precacheManifest = [
     "url": "/melior-app-react/static/media/overall.f0a4c03f.svg"
   },
   {
-    "revision": "81629f81e233f65aa393a524b0d4ac4a",
-    "url": "/melior-app-react/static/media/searchVolume.81629f81.svg"
-  },
-  {
-    "revision": "dbaf81855c2e25de4f1b",
-    "url": "/melior-app-react/static/js/main.b1d4687d.chunk.js"
-  },
-  {
-    "revision": "c06cf8dff5ff53748668a0093c5f97d2",
-    "url": "/melior-app-react/static/media/Group 86.c06cf8df.svg"
+    "revision": "9177b2e4383ce3631d37",
+    "url": "/melior-app-react/static/js/main.3f8c6ec6.chunk.js"
   },
   {
     "revision": "f06fe753d8a590f15dc9cc74a86c9850",
     "url": "/melior-app-react/static/media/overTimeFeed.f06fe753.svg"
+  },
+  {
+    "revision": "81629f81e233f65aa393a524b0d4ac4a",
+    "url": "/melior-app-react/static/media/searchVolume.81629f81.svg"
   },
   {
     "revision": "bb396c8168332fffdeed8a202fd84281",
@@ -56,11 +56,11 @@ self.__precacheManifest = [
     "url": "/melior-app-react/static/media/TTNorms.0ca21dec.woff2"
   },
   {
-    "revision": "8c680d48fc9e74913e83",
+    "revision": "a2b44bf4193cc61ef12d",
     "url": "/melior-app-react/static/css/2.95be4de1.chunk.css"
   },
   {
-    "revision": "5aa7960ce35e6a95f7f30116d778659a",
+    "revision": "1fe417b0da38a20434aa1e58140d62f8",
     "url": "/melior-app-react/index.html"
   }
 ];
