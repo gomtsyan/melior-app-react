@@ -3,6 +3,7 @@ import "./App.css";
 import NavBar from "./components/NavigationBar/NavigationBar";
 import {
   BrowserRouter as Router,
+  HashRouter,
   Switch,
   Route,
   Redirect,
@@ -14,7 +15,7 @@ import SearchResults from "./pages/SearchResults/SearchResults";
 
 function App() {
   return (
-    <Router basename="/melior-app-react">
+    <HashRouter>
       <div className="app-wrapper">
         <NavBar />
         <Switch>
@@ -35,7 +36,7 @@ function App() {
           <Route path="/feedback" exact component={FeedBack} />
         </Switch>
       </div>
-    </Router>
+    </HashRouter>
   );
 }
 
