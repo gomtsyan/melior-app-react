@@ -2,7 +2,6 @@ import React from "react";
 import "./App.css";
 import NavBar from "./components/NavigationBar/NavigationBar";
 import {
-  BrowserRouter as Router,
   HashRouter,
   Switch,
   Route,

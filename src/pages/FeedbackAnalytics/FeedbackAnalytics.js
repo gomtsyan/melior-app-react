@@ -20,7 +20,7 @@ import {
   feedbackSearchAverageEndpoint,
 } from "../../constants";
 import moment from "moment";
-import { usePrevious } from "../../hooks/usePrevious";
+//import { usePrevious } from "../../hooks/usePrevious";
 
 const getTotalData = (search) =>
   new Promise((resolve) => {
@@ -144,7 +144,7 @@ function FeedBack() {
   const [averageSearchData, setAverageSearchData] = useState(null);
   const [progressData, setProgressData] = useState(null);
   const [progressSearchData, setProgressSearchData] = useState(null);
-  const [feedbackRatingData, setFeedbackRatingData] = useState(null);
+  //const [feedbackRatingData, setFeedbackRatingData] = useState(null);
   const [feedbackVolumeData, setFeedbackVolumeData] = useState(null);
   const [feedbackRatioData, setFeedbackRatioData] = useState(null);
 
@@ -195,7 +195,7 @@ function FeedBack() {
       setAverageData(dataAverage);
       setProgressData(Object.values(dataProgress));
       setProgressSearchData(Object.values(dataSearchProgress));
-      setFeedbackRatingData(dataRating);
+      //setFeedbackRatingData(dataRating);
       setFeedbackVolumeData(dataRatingVolume);
       setFeedbackRatioData(dataRatio);
     })();
