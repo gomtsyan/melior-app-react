@@ -170,7 +170,7 @@ function FeedBack() {
       const dataSearchAverage = await getSearchAveragelData(search);
       const dataProgress = await getProgressData(search);
       const dataSearchProgress = await getProgressSearchData(search);
-      const dataRating = await getRatingData(search);
+      //const dataRating = await getRatingData(search);
       const dataRatingVolume = await getRatingVoulumeData(search);
       const dataRatio = await getRatingRatioData(search);
       dataRatingVolume.sort(function (a, b) {
