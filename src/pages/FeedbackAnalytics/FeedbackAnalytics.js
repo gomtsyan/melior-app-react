@@ -12,7 +12,7 @@ import {
   feedbackTotalEndpoint,
   feedbackAverageEndpoint,
   feedbackProgressEndpoint,
-  feedbackRatingEndpoint,
+  //feedbackRatingEndpoint,
   feedbackVolumeOverTimeEndpoint,
   feedbackRatioOverTimeEndpoint,
   feedbackTotalSearchEndpoint,
