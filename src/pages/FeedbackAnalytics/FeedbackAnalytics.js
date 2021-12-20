@@ -92,7 +92,7 @@ const getProgressSearchData = (search) =>
       });
   });
 
-const getRatingData = (search) =>
+/*const getRatingData = (search) =>
   new Promise((resolve) => {
     fetch(APIBaseURI + feedbackRatingEndpoint + search)
       .then((res) => res.json())
@@ -102,7 +102,7 @@ const getRatingData = (search) =>
       .catch((error) => {
         console.log(error);
       });
-  });
+  });*/
 
 const getRatingVoulumeData = (search) =>
   new Promise((resolve) => {
